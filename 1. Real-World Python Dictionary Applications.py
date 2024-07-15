@@ -19,7 +19,7 @@ restaurant_menu = {
 
 #- Remove "Bruschetta" from "Starters"
 
-restaurant_menu["Beverages"] = {"Lemonade": 2.99, "Sweet Tea": 3.55}
+restaurant_menu["Beverages"] = {"Lemonade": 1.99, "Sweet Tea": 3.55}
 
 restaurant_menu["Main Course"]["Steak"] = 17.99
 
